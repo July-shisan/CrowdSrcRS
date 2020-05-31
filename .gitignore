@@ -1,0 +1,14 @@
+.idea/
+data/TaskInstances
+data/UserGraph
+data/UserInstances
+data/saved_ML_models
+data/pictures
+data/runResults
+data/TopcoderDataSet
+data/Statistics
+data/TopcoderDataSetNeighborhood
+*.pyc
+*.pkl
+*.json
+*.data
